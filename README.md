@@ -34,6 +34,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 **🖥️ Systems, Networks & OS Knowledge**
+![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-0052CC?style=for-the-badge&logo=apache&logoColor=white)
 ![Network Architecture](https://img.shields.io/badge/Network%20Architecture-0052CC?style=for-the-badge&logo=diagrams.net&logoColor=white)
 ![Operating Systems](https://img.shields.io/badge/Operating%20Systems-4D4D4D?style=for-the-badge&logo=linux&logoColor=white)
 
