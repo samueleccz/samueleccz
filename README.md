@@ -17,6 +17,11 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
+**🛡️ Cyber Security & Cryptography**
+![Internet Security](https://img.shields.io/badge/Internet%20Security-%2300A4E4.svg?style=for-the-badge&logo=avast&logoColor=white)
+![Cryptography](https://img.shields.io/badge/Cryptography-🔑-yellow?style=for-the-badge)
+![Cyber Attacks & Defense](https://img.shields.io/badge/Attacks%20%26%20Defense-%23🛑-crimson?style=for-the-badge)
+
 **🌐 Web Development**
 ![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
