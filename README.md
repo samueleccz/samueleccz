@@ -19,6 +19,12 @@
 
 **🌐 Web Development**
 ![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+**🎨 Frontend & CMS**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 **🖥️ Systems, Networks & OS**
 ![Network Architecture](https://img.shields.io/badge/Network%20Architecture-0052CC?style=for-the-badge&logo=diagrams.net&logoColor=white)
