@@ -1,16 +1,13 @@
-## Hi there 👋
+# Ciao, sono Samuele Cucuzza! 🚀
 
-<!--
-**samueleccz/samueleccz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Chi sono
+- 🔭 Appassionato
+- 🌱 Sto imparando: [Una tecnologia o linguaggio nuovo]
+- 💬 Chiedimi pure informazioni su: [Le tue competenze forti]
+- ⚡ Fatto curioso: [Un tuo hobby o qualcosa di simpatico]
 
-Here are some ideas to get you started:
+### 🛠️ Le mie tecnologie preferite
+![I miei linguaggi più usati](https://github-readme-stats.vercel.app/api/top-langs/?username=IL_TUO_USERNAME&layout=compact&theme=visual_studio_dark)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Come trovarmi
+- 📫 Instagram: @samueleccz 
