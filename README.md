@@ -26,7 +26,7 @@
 
 **📊 Data Management & DBMS**
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS%20(Highly%20Specialized)-💻-orange?style=for-the-badge)<p align="center">
+![DBMS](https://img.shields.io/badge/DBMS%20-💻-orange?style=for-the-badge)<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IL_TUO_USERNAME&layout=compact&theme=visual_studio_dark" alt="Top Languages" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api?username=IL_TUO_USERNAME&show_icons=true&theme=visual_studio_dark&include_all_commits=true" alt="GitHub Stats" width="48%" />
 </p>
