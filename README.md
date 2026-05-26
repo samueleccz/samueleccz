@@ -40,7 +40,7 @@
 
 **📊 Data Management & DBMS**
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![DBMS](https://img.shields.io/badge/DBMS%20(Highly%20Specialized)-💻-orange?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS%20-💻-orange?style=for-the-badge)
 
 ---
 
