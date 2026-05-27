@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 - 🔭 **Passionate about Computer Science** and everything tech-related.
-- 🌱 **Currently learning:** The fundamentals of distributed systems.
+- 🌱 **Currently learning:** The fundamentals of distributed systems, and IOT solutions.
 - 💬 **Ask me about:** Anything you want! I'm always open to chat.
 
 > ⚠️ **Note:** Most of my projects and codebases are hosted in **private repositories** for security and development reasons, which is why my public activity might look quiet. Feel free to reach out if you'd like to see specific code samples or discuss my work privately!
